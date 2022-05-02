@@ -1,1 +1,1 @@
-web: bin/GhoulBot --port  443
+web: bin/GhoulBot --port  %PORT%
