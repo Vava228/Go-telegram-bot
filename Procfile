@@ -1,1 +1,1 @@
-web: bin/GhoulBot --port  %PORT%
+web: bin/GhoulBot --port  8080
