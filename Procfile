@@ -1,1 +1,1 @@
-worker: bin/GhoulBot
+web: bin/GhoulBot
