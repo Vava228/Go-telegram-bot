@@ -1,1 +1,1 @@
-web: bin/GhoulBot --port  8080
+worker: bin/GhoulBot
