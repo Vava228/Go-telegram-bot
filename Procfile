@@ -1,1 +1,1 @@
-web: bin/GhoulBot
+web: bin/GhoulBot --port $PORT
